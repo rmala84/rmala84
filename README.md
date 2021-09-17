@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rmala84
 - 👀 I’m interested in ...building a career in Data Analysis
 - 🌱 I’m currently learning ...Data Science related technologies
-- 💞️ I’m looking to collaborate on ...
+<!-- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me ...rmala84@gmail.com
 
 <!---
