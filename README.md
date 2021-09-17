@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rmala84
+- 👋 Hi, I’m  Mala Ramakrishnaiah
 - 👀 I’m interested in ...building a career in Data Analysis
 - 🌱 I’m currently learning ...Data Science related technologies
 <!-- 💞️ I’m looking to collaborate on ...-->
